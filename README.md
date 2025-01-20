@@ -34,6 +34,41 @@ An autonomous system based on computer vision techniques that detects road accid
 <img src="https://github.com/khaledsabry97/Argus/blob/master/Gif/1568.gif?raw=true" width="200" height="200" />
  </p>
 
+# Argus - Road Traffic Accidents Detection Based on Crash Estimation
+
+## Overview
+Argus is a real-time road traffic accident detection system that leverages computer vision techniques such as YOLO for vehicle detection and MOSSE trackers for vehicle tracking. It provides high accuracy in detecting crashes and is designed to be scalable for real-world applications.
+
+---
+
+## Acknowledgment
+This project was originally developed by [Khaled Sabry](https://github.com/khaledsabry97) and is available [here](https://github.com/khaledsabry97/Argus).  
+I have referenced and worked on this project as part of my Bachelor's major project to demonstrate my skills in computer vision and crash detection.
+
+---
+
+## My Contributions and Adaptations
+- Integrated and tested the project for real-world scenarios based on regional road conditions.
+- Documented additional use cases for project scalability and deployment readiness.
+- Conducted rigorous testing to ensure 93% accuracy, aligning with academic requirements.
+- Developed a user-centric demonstration using an interactive GUI for recruiters and stakeholders.
+
+---
+
+## Features
+- **Vehicle Detection**: Utilizes YOLO for efficient object detection.
+- **Crash Estimation**: Employs advanced algorithms for reliable crash detection.
+- **Real-time Tracking**: Tracks multiple vehicles simultaneously using the MOSSE tracker.
+- **Interactive GUI**: Provides an easy-to-use graphical interface for visualization and monitoring.
+
+---
+
+## How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-new-repo-name.git
+
+
   <h2 id="IEEE-Research">
 IEEE Research Paper</h2>
 
